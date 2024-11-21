@@ -28,7 +28,7 @@ jobs:
 
     - name: Build documentation
       run: |
-        cd docs
+        cd python-typehint-playground_2
         make html
 
 
